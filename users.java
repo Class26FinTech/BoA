@@ -7,3 +7,5 @@ leo
 devops
 sama
 james
+bobis
+goza
